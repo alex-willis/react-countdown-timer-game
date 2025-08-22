@@ -147,7 +147,6 @@ header p {
   border-radius: 8px;
   padding: 2rem;
   background-color: #d7fcf8;
-  color: #000000;
 }
 
 .result-modal[open] {
